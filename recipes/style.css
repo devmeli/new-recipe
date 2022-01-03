@@ -11,18 +11,16 @@ body {
 
     
 }
-.a{
+p{
+
     background-color: red;
     color: black;
 }
-.b{
+ul ,ol ,dt{
     background-color: white;
     color:blue;
 }
-.c{
-    background-color: blue;
-    color: white;
-}
+
 .beam,.lect{
     color: rgb(248, 122, 18);
     text-align: center;
